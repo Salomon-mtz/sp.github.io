@@ -1,0 +1,228 @@
+<!-- news start -->
+            <!-- section left start -->
+            <div class="fireOT-left left-side" id="news">
+                <!-- divider start -->
+                <div class="divider"></div><!-- divider end -->
+                <!-- container start -->
+                <div class="container">
+                    <!-- row start -->
+                    <div class="row">
+                        <!-- col start -->
+                        <div class="col-lg-12">
+                            <!-- page title start -->
+                            <h1 class="home-page-title-all">
+                                News
+                            </h1><!-- page title end -->
+                            <!-- divider start -->
+                            <div class="inner-divider-half"></div><!-- divider end -->
+                            <!-- section subtitle start -->
+                            <h2 class="section-heading section-heading-all section-heading-light">
+                                <span>04.</span> Stay Up-to-Date
+                            </h2><!-- section subtitle end -->
+                        </div><!-- col end -->
+                    </div><!-- row end -->
+                    <!-- divider start -->
+                    <div class="inner-divider"></div><!-- divider end -->
+                    <!-- row start -->
+                    <div class="row">
+                        <!-- col start -->
+                        <div class="col-sm-12">
+                            <!-- news carousel start -->
+                            <div class="owl-carousel" id="news-carousel">
+                                <!-- news item 1 start -->
+                                <div class="news-item">
+                                    <figure class="news-content">
+                                        <!-- news IMG start -->
+                                        <img alt="News Img" src="img/news/news-1.jpg"><!-- news IMG end -->
+                                        <figcaption>
+                                            <!-- divider start -->
+                                            <div class="inner-divider-timeline-news"></div><!-- divider end -->
+                                            <!-- news subtitle start -->
+                                            <h3>
+                                                Photography / Portfolio
+                                            </h3><!-- news subtitle end -->
+                                            <!-- divider start -->
+                                            <div class="inner-divider-half"></div><!-- divider end -->
+                                            <!-- news title start -->
+                                            <h2 class="section-heading section-heading-all section-heading-light section-heading-news">
+                                                Simplicity<br>
+                                                is complex
+                                            </h2><!-- news title end -->
+                                            <!-- divider start -->
+                                            <div class="inner-divider-half"></div><!-- divider end -->
+                                            <!-- news date start -->
+                                            <h5>
+                                                April 1, 2019
+                                            </h5><!-- news date end -->
+                                            <!-- divider start -->
+                                            <div class="inner-divider-timeline-news"></div><!-- divider end -->
+                                            <!-- section TXT start -->
+                                            <div class="section-txt-news">
+                                                <p>
+                                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the
+                                                    1500s.
+                                                </p>
+                                            </div><!-- section TXT end -->
+                                            <!-- divider start -->
+                                            <div class="inner-divider-timeline-news"></div><!-- divider end -->
+                                            <!-- the button wrapper start -->
+                                            <div class="the-button-wrapper the-button-wrapper-news">
+                                                <div class="the-button">
+                                                    Read more
+                                                </div>
+                                            </div><!-- the button wrapper end -->
+                                        </figcaption>
+                                    </figure>
+                                </div><!-- news item 1 end -->
+                                <!-- news item 2 start -->
+                                <div class="news-item">
+                                    <figure class="news-content">
+                                        <!-- news IMG start -->
+                                        <img alt="News Img" src="img/news/news-2.jpg"><!-- news IMG end -->
+                                        <figcaption>
+                                            <!-- divider start -->
+                                            <div class="inner-divider-timeline-news"></div><!-- divider end -->
+                                            <!-- news subtitle start -->
+                                            <h3>
+                                                Beauty / Fashion
+                                            </h3><!-- news subtitle end -->
+                                            <!-- divider start -->
+                                            <div class="inner-divider-half"></div><!-- divider end -->
+                                            <!-- news title start -->
+                                            <h2 class="section-heading section-heading-all section-heading-light section-heading-news">
+                                                Design is<br>
+                                                a process
+                                            </h2><!-- news title end -->
+                                            <!-- divider start -->
+                                            <div class="inner-divider-half"></div><!-- divider end -->
+                                            <!-- news date start -->
+                                            <h5>
+                                                April 2, 2019
+                                            </h5><!-- news date end -->
+                                            <!-- divider start -->
+                                            <div class="inner-divider-timeline-news"></div><!-- divider end -->
+                                            <!-- section TXT start -->
+                                            <div class="section-txt-news">
+                                                <p>
+                                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the
+                                                    1500s.
+                                                </p>
+                                            </div><!-- section TXT end -->
+                                            <!-- divider start -->
+                                            <div class="inner-divider-timeline-news"></div><!-- divider end -->
+                                            <!-- the button wrapper start -->
+                                            <div class="the-button-wrapper the-button-wrapper-news">
+                                                <div class="the-button">
+                                                    Read more
+                                                </div>
+                                            </div><!-- the button wrapper end -->
+                                        </figcaption>
+                                    </figure>
+                                </div><!-- news item 2 end -->
+                                <!-- news item 3 start -->
+                                <div class="news-item">
+                                    <figure class="news-content">
+                                        <!-- news IMG start -->
+                                        <img alt="News Img" src="img/news/news-3.jpg"><!-- news IMG end -->
+                                        <figcaption>
+                                            <!-- divider start -->
+                                            <div class="inner-divider-timeline-news"></div><!-- divider end -->
+                                            <!-- news subtitle start -->
+                                            <h3>
+                                                Nature / Landscapes
+                                            </h3><!-- news subtitle end -->
+                                            <!-- divider start -->
+                                            <div class="inner-divider-half"></div><!-- divider end -->
+                                            <!-- news title start -->
+                                            <h2 class="section-heading section-heading-all section-heading-light section-heading-news">
+                                                Aesthetic is<br>
+                                                a decision
+                                            </h2><!-- news title end -->
+                                            <!-- divider start -->
+                                            <div class="inner-divider-half"></div><!-- divider end -->
+                                            <!-- news date start -->
+                                            <h5>
+                                                April 3, 2019
+                                            </h5><!-- news date end -->
+                                            <!-- divider start -->
+                                            <div class="inner-divider-timeline-news"></div><!-- divider end -->
+                                            <!-- section TXT start -->
+                                            <div class="section-txt-news">
+                                                <p>
+                                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the
+                                                    1500s.
+                                                </p>
+                                            </div><!-- section TXT end -->
+                                            <!-- divider start -->
+                                            <div class="inner-divider-timeline-news"></div><!-- divider end -->
+                                            <!-- the button wrapper start -->
+                                            <div class="the-button-wrapper the-button-wrapper-news">
+                                                <div class="the-button">
+                                                    Read more
+                                                </div>
+                                            </div><!-- the button wrapper end -->
+                                        </figcaption>
+                                    </figure>
+                                </div><!-- news item 3 end -->
+                                <!-- news item 4 start -->
+                                <div class="news-item">
+                                    <figure class="news-content">
+                                        <!-- news IMG start -->
+                                        <img alt="News Img" src="img/news/news-4.jpg"><!-- news IMG end -->
+                                        <figcaption>
+                                            <!-- divider start -->
+                                            <div class="inner-divider-timeline-news"></div><!-- divider end -->
+                                            <!-- news subtitle start -->
+                                            <h3>
+                                                Commercial / Stock
+                                            </h3><!-- news subtitle end -->
+                                            <!-- divider start -->
+                                            <div class="inner-divider-half"></div><!-- divider end -->
+                                            <!-- news title start -->
+                                            <h2 class="section-heading section-heading-all section-heading-light section-heading-news">
+                                                Style is<br>
+                                                everything
+                                            </h2><!-- news title end -->
+                                            <!-- divider start -->
+                                            <div class="inner-divider-half"></div><!-- divider end -->
+                                            <!-- news date start -->
+                                            <h5>
+                                                April 4, 2019
+                                            </h5><!-- news date end -->
+                                            <!-- divider start -->
+                                            <div class="inner-divider-timeline-news"></div><!-- divider end -->
+                                            <!-- section TXT start -->
+                                            <div class="section-txt-news">
+                                                <p>
+                                                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the
+                                                    1500s.
+                                                </p>
+                                            </div><!-- section TXT end -->
+                                            <!-- divider start -->
+                                            <div class="inner-divider-timeline-news"></div><!-- divider end -->
+                                            <!-- the button wrapper start -->
+                                            <div class="the-button-wrapper the-button-wrapper-news">
+                                                <div class="the-button">
+                                                    Read more
+                                                </div>
+                                            </div><!-- the button wrapper end -->
+                                        </figcaption>
+                                    </figure>
+                                </div><!-- news item 4 end -->
+                            </div><!-- news carousel end -->
+                        </div><!-- col end -->
+                    </div><!-- row end -->
+                    <!-- divider start -->
+                    <div class="inner-divider-mobile"></div><!-- divider end -->
+                </div><!-- container end -->
+            </div><!-- section left end -->
+            <!-- section right start -->
+            <div class="fireOT-right right-side">
+                <!-- news IMG start -->
+                <div class="news-img-container overlay overlay-dark-60">
+                    <div class="slide-img">
+                        <img alt="BG Img" src="img/background/slide-img-news.jpg">
+                    </div>
+                </div><!-- news IMG end -->
+            </div><!-- section right end -->
+            <!-- news end -->
