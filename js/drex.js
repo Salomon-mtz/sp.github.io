@@ -129,11 +129,11 @@ $(function() {
         $("form#form .error").remove();
         var s = !1;
         if ($(".requiredField").each(function() {
-                if ("" === jQuery.trim($(this).val())) $(this).prev("label").text(), $(this).parent().append('<span class="error">This field is required</span>'), $(this).addClass(
+                if ("" === jQuery.trim($(this).val())) $(this).prev("label").text(), $(this).parent().append('<span class="error">Este campo es obligatorio</span>'), $(this).addClass(
                     "inputError"), s = !0;
                 else if ($(this).hasClass("email")) {
                     var r = /^([\w-\.]+@([\w-]+\.)+[\w-]{2,4})?$/;
-                    r.test(jQuery.trim($(this).val())) || ($(this).prev("label").text(), $(this).parent().append('<span class="error">Invalid email address</span>'), $(this).addClass(
+                    r.test(jQuery.trim($(this).val())) || ($(this).prev("label").text(), $(this).parent().append('<span class="error">Dirección de correo inválida</span>'), $(this).addClass(
                         "inputError"), s = !0);
                 }
             }), !s) {
@@ -143,7 +143,7 @@ $(function() {
             var r = $(this).serialize();
             $.post($(this).attr("action"), r, function() {
                 $("form#form").slideUp("fast", function() {
-                    $(this).before('<div class="success">Your email was sent successfully.</div>');
+                    $(this).before('<div class="success">Tu correo se envió correctamente</div>');
                 });
             });
         }
