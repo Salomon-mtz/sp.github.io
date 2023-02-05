@@ -3962,7 +3962,6 @@ width: 100vw;
 .about-img-container .slide-img,
 .services-img-container .slide-img,
 .works-img-container .slide-img,
-.news-img-container .slide-img,
 .contact-img-container .slide-img {
 position: absolute;
 left: -30vw;
@@ -3976,7 +3975,7 @@ left: -30vw;
 .page-loaded .about-img-container .slide-img,
 .page-loaded .services-img-container .slide-img,
 .page-loaded .works-img-container .slide-img,
-.page-loaded .news-img-container .slide-img,
+.page-loaded
 .page-loaded .contact-img-container .slide-img {
 left: -30vw;
 }
@@ -3985,7 +3984,7 @@ left: -30vw;
   .page-loaded .about-img-container .slide-img,
   .page-loaded .services-img-container .slide-img,
   .page-loaded .works-img-container .slide-img,
-  .page-loaded .news-img-container .slide-img,
+  .page-loaded
   .page-loaded .contact-img-container .slide-img {
     left: 0;
   }
