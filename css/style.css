@@ -3964,7 +3964,6 @@ width: 100vw;
 .works-img-container .slide-img,
 .contact-img-container .slide-img {
 position: absolute;
-left: -30vw;
 -webkit-transition: 1s cubic-bezier(0.67, 0.02, 0.2, 0.97);
    -moz-transition: 1s cubic-bezier(0.67, 0.02, 0.2, 0.97);
     -ms-transition: 1s cubic-bezier(0.67, 0.02, 0.2, 0.97);
