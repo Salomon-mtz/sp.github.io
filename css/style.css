@@ -3903,11 +3903,13 @@ width: 62vw;
 .about-img-container,
 .services-img-container,
 .works-img-container,
+.clients-img-container,
 .news-img-container,
 .contact-img-container,
 .about-img-container.mobile,
 .services-img-container.mobile,
 .works-img-container.mobile,
+.clients-img-container.mobile,
 .news-img-container.mobile,
 .contact-img-container.mobile {
 position: absolute!important;
@@ -3930,6 +3932,7 @@ z-index: 99;
   .about-img-container.mobile,
   .services-img-container.mobile,
   .works-img-container.mobile,
+  .clients-img-container.mobile,
   .news-img-container.mobile,
   .contact-img-container.mobile {
     display: none;
@@ -3940,11 +3943,13 @@ z-index: 99;
   .about-img-container,
   .services-img-container,
   .works-img-container,
+  .clients-img-container,
   .news-img-container,
   .contact-img-container,
   .about-img-container.img-poster,
   .services-img-container.img-poster,
   .works-img-container.img-poster,
+  .clients-img-container.img-poster,
   .news-img-container.img-poster,
   .contact-img-container.img-poster {
     width: 100%;
@@ -3954,6 +3959,7 @@ z-index: 99;
 .about-img-container.img-poster,
 .services-img-container.img-poster,
 .works-img-container.img-poster,
+.clients-img-container.img-poster,
 .news-img-container.img-poster,
 .contact-img-container.img-poster {
 width: 100vw;
@@ -3962,6 +3968,7 @@ width: 100vw;
 .about-img-container .slide-img,
 .services-img-container .slide-img,
 .works-img-container .slide-img,
+.clients-img-container .slide-img,
 .contact-img-container .slide-img {
 position: absolute;
 -webkit-transition: 1s cubic-bezier(0.67, 0.02, 0.2, 0.97);
@@ -3974,6 +3981,7 @@ position: absolute;
 .page-loaded .about-img-container .slide-img,
 .page-loaded .services-img-container .slide-img,
 .page-loaded .works-img-container .slide-img,
+.page-loaded .clients-img-container .slide-img,
 .page-loaded
 .page-loaded .contact-img-container .slide-img {
 left: -30vw;
@@ -3983,6 +3991,7 @@ left: -30vw;
   .page-loaded .about-img-container .slide-img,
   .page-loaded .services-img-container .slide-img,
   .page-loaded .works-img-container .slide-img,
+  .page-loaded .clients-img-container .slide-img,
   .page-loaded
   .page-loaded .contact-img-container .slide-img {
     left: 0;
@@ -3992,6 +4001,7 @@ left: -30vw;
 .page-loaded .about-img-container.img-poster .slide-img,
 .page-loaded .services-img-container.img-poster .slide-img,
 .page-loaded .works-img-container.img-poster .slide-img,
+.page-loaded .clients-img-container.img-poster .slide-img,
 .page-loaded .news-img-container.img-poster .slide-img,
 .page-loaded .contact-img-container.img-poster .slide-img {
 left: 0;
