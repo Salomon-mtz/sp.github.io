@@ -5140,3 +5140,14 @@ visibility: hidden;
     visibility: visible;
   }
 }
+
+img.clients{
+  filter: grayscale(100%);
+  -webkit-filter: grayscale(100%);
+  max-width: 70%;
+}
+
+img.clients:hover {
+  filter: none;
+  -webkit-filter: grayscale(0);
+}
